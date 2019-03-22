@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package htl.herbst.ex_mavenproducerconsumer;
+package htl.herbst.ex_mavenpassword;
 
 /**
  *
