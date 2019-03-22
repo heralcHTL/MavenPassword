@@ -9,15 +9,11 @@ package htl.herbst.ex_mavenpassword;
  *
  * @author Alex
  */
-public class Password {
-    private String pwd;
+public class PasswordProducer implements Runnable{
 
-    public Password(String pwd) {
-        this.pwd = pwd;
+    @Override
+    public void run() {
+        
     }
     
-    public boolean check(String testpw)
-    {
-        return false;
-    }
 }

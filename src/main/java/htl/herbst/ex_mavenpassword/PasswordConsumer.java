@@ -9,15 +9,11 @@ package htl.herbst.ex_mavenpassword;
  *
  * @author Alex
  */
-public class Password {
-    private String pwd;
+public class PasswordConsumer implements Runnable{
 
-    public Password(String pwd) {
-        this.pwd = pwd;
+    @Override
+    public void run() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
-    public boolean check(String testpw)
-    {
-        return false;
-    }
 }
