@@ -9,6 +9,6 @@ package htl.herbst.ex_mavenproducerconsumer;
  *
  * @author Alex
  */
-public class Producer {
+public class Password {
     
 }
